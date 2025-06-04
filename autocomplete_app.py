@@ -3,7 +3,7 @@ import nltk
 from nltk.util import ngrams
 from collections import defaultdict, Counter
 
-nltk.download('punkt')
+nltk.download('all')
 
 st.title("Autocomplete from Uploaded Text")
 
