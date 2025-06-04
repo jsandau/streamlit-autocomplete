@@ -9,13 +9,13 @@ A simple Streamlit app that builds a bigram language model from uploaded text an
 - Builds bigrams to model word transitions
 - Provides autocomplete suggestions based on input words
 
-## 🛠 Built With
+## Built With
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [NLTK](https://www.nltk.org/)
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -24,3 +24,6 @@ A simple Streamlit app that builds a bigram language model from uploaded text an
 2. Install dependecies:
    pip install -r requirements.txt'
 3. Run the app
+
+## Link to Streamlit App
+https://app-autocomplete-ml.streamlit.app/
