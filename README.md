@@ -27,6 +27,7 @@ I built a simple Streamlit app that builds a bigram language model from uploaded
 
 ## Link to Streamlit App
 Pretty much the same apps but built diferently.
+
 https://app-autocomplete.streamlit.app/
 
 https://app-autocomplete-ml.streamlit.app/
