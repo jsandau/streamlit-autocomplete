@@ -44,7 +44,7 @@ if uploaded_file:
             st.write("No predictions found (word not in training set).")
         else:
             probs = model.predict_proba(last_word_vect)[0]
-            top_indices = np.argsort(probs)[-5:][::-1]
+            top_indices = np.argsort(probs)[-3:][::-1]
             suggestions = np.array(model.classes_)[top_indices]
 
             st.write("Next word suggestions:")
