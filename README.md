@@ -1,4 +1,4 @@
-#Streamlit Autocomplete App
+## Streamlit Autocomplete App
 
 I built a simple Streamlit app that builds a bigram language model from uploaded text and suggests autocomplete predictions based on word pairs. Built with `nltk` and `streamlit`.
 
